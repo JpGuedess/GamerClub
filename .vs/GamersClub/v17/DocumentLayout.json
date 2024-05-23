@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\caduserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\caduserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\caduserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\caduserpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\data\\isqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\data\\isqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\data\\sqlitedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\data\\sqlitedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\gamersclub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\gamersclub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\hollowpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\hollowpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\deadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\deadpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\cspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\cspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\anotherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\anotherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\anotherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\anotherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\deadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\deadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\favorito.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\favorito.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\favorito.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\favorito.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\cspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\cspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\hollowpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\hollowpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\sobre.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\sobre.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\pages\\sobre.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\pages\\sobre.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENAI3EM\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|c:\\users\\senai3em\\documents\\projects\\gamersclub\\gamersclub\\resources\\images\\dotnet_bot.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C439A882-74F4-40EA-B1FF-DB86E8551F63}|GamersClub\\GamersClub.csproj|solutionrelative:gamersclub\\resources\\images\\dotnet_bot.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENAI3EM\\.nuget\\packages\\communitytoolkit.maui\\6.0.0\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Resources\\Images\\logio.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GamersClub\\Resources\\Images\\logio.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Model\\UserModel.cs",
+              "RelativeToolTip": "GamersClub\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:05:08.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISQLiteDB.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Data\\ISQLiteDB.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Data\\ISQLiteDB.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Data\\ISQLiteDB.cs",
+              "RelativeToolTip": "GamersClub\\Data\\ISQLiteDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:06:32.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\HomePage.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T18:01:39.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\LoginPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T18:01:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:02:33.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:15:35.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadUserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\CadUserPage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\CadUserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\CadUserPage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\CadUserPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:13:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadUserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\CadUserPage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\CadUserPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\CadUserPage.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\CadUserPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T18:11:48.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Data\\UserData.cs",
+              "RelativeToolTip": "GamersClub\\Data\\UserData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:06:17.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\App.xaml.cs",
+              "RelativeToolTip": "GamersClub\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:12:02.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQLiteData.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Data\\SQLiteData.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Data\\SQLiteData.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Data\\SQLiteData.cs",
+              "RelativeToolTip": "GamersClub\\Data\\SQLiteData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:06:44.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\App.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\App.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\App.xaml",
+              "RelativeToolTip": "GamersClub\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T11:39:14.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\AppShell.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\AppShell.xaml",
+              "RelativeToolTip": "GamersClub\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T13:29:21.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Constants.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Constants.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Constants.cs",
+              "RelativeToolTip": "GamersClub\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:37:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\MainPage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:41:04.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\MainPage.xaml",
+              "RelativeToolTip": "GamersClub\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T13:29:23.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\AppShell.xaml.cs",
+              "RelativeToolTip": "GamersClub\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:40:35.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Perfil.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Perfil.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\Perfil.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Perfil.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\Perfil.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:41.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "GamersClub\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\MauiProgram.cs",
+              "RelativeToolTip": "GamersClub\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:53:24.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GamersClub.csproj",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\GamersClub.csproj",
+              "RelativeDocumentMoniker": "GamersClub\\GamersClub.csproj",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\GamersClub.csproj",
+              "RelativeToolTip": "GamersClub\\GamersClub.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwHkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T17:55:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnotherPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\AnotherPage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\AnotherPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\AnotherPage.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\AnotherPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T12:24:25.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HollowPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HollowPage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\HollowPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HollowPage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\HollowPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:14:54.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "deadPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\deadPage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\deadPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\deadPage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\deadPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:24:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "csPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\csPage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\csPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\csPage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\csPage.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:18:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AnotherPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\AnotherPage.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\AnotherPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\AnotherPage.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\AnotherPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:59:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Favorito.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Favorito.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\Favorito.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Favorito.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\Favorito.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:21:26.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Favorito.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Favorito.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\Favorito.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Favorito.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\Favorito.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T12:03:58.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "csPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\csPage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\csPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\csPage.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\csPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T13:15:56.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "deadPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\deadPage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\deadPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\deadPage.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\deadPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T13:22:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HollowPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HollowPage.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\HollowPage.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\HollowPage.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\HollowPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T13:11:20.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sobre.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Sobre.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\Sobre.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Sobre.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\Sobre.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T12:03:46.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Sobre.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Sobre.xaml.cs",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\Sobre.xaml.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Sobre.xaml.cs",
+              "RelativeToolTip": "GamersClub\\Pages\\Sobre.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:10:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Perfil.xaml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Perfil.xaml",
+              "RelativeDocumentMoniker": "GamersClub\\Pages\\Perfil.xaml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Pages\\Perfil.xaml",
+              "RelativeToolTip": "GamersClub\\Pages\\Perfil.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBQAAACyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T12:04:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ToolTip": "C:\\Users\\SENAI3EM\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ViewState": "AQIAAGsBAAAAAAAAAAAqwHkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-16T12:10:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "GamersClub\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "GamersClub\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-16T11:15:13.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAqwJsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-10T18:39:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dotnet_bot.png - PNG [1200x738, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Resources\\Images\\dotnet_bot.png",
+              "RelativeDocumentMoniker": "GamersClub\\Resources\\Images\\dotnet_bot.png",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Resources\\Images\\dotnet_bot.png - PNG [1200x738, 32 bits, PNG]",
+              "RelativeToolTip": "GamersClub\\Resources\\Images\\dotnet_bot.png - PNG [1200x738, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-16T11:07:45.591Z",
+              "EditorCaption": " - PNG [1200x738, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "logio.svg",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Resources\\Images\\logio.svg",
+              "RelativeDocumentMoniker": "GamersClub\\Resources\\Images\\logio.svg",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Documents\\Projects\\GamersClub\\GamersClub\\Resources\\Images\\logio.svg",
+              "RelativeToolTip": "GamersClub\\Resources\\Images\\logio.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-16T11:07:46.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\.nuget\\packages\\communitytoolkit.maui\\6.0.0\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\6.0.0\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\SENAI3EM\\.nuget\\packages\\communitytoolkit.maui\\6.0.0\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\6.0.0\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-10T17:53:09.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

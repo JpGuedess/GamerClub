@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GamersClub.Pages.AnotherPage"
+             >
+
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="1,0">
+            <GradientStop Color="#202020" Offset="0.3" />
+            <GradientStop Color="#0D2930" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+    <VerticalStackLayout>
+        <ImageButton Source="another" WidthRequest="200" HeightRequest="300" CornerRadius="9"/>
+        <Label Text="another crab’s treasure" VerticalOptions="Center" TextColor="#FFF" FontFamily="InterExtraBold" FontSize="21" WidthRequest="360" HeightRequest="30" Margin="0,0,0,10" />
+        <Label Text="Controle Kril, o caranguejo-eremita, e improvise uma Concha com o Lixo que estiver ao alcance das suas garras para se proteger dos ataques de inimigos muito maiores que você. Embarque em uma caça ao tesouro para comprar de volta sua concha, que foi penhorada, e descubra segredos sombrios nos cantos do oceano poluído." TextColor="#FFF" FontFamily="InterLight" FontSize="19"  Margin="16,0,10,10"/>
+        <Button Text="jogar"
+                Clicked="btnOpenSteanAnother_Clicked" TextColor="#202020" FontFamily="InterExtraBold" BackgroundColor="#23C1E7" Margin="10,0,10,0" />
+    </VerticalStackLayout>
+</ContentPage>

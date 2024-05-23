@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GamersClub.Pages.LoginPage"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             NavigationPage.HasNavigationBar="False"
+             >
+
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="1,0">
+            <GradientStop Color="#202020" Offset="0.4" />
+            <GradientStop Color="#121B31" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ContentPage.Behaviors>
+        <toolkit:StatusBarBehavior StatusBarColor="#202020"/>
+    </ContentPage.Behaviors>
+
+    <VerticalStackLayout Margin="15" Padding="15" Spacing="5" VerticalOptions="Center" HorizontalOptions="Center">
+
+        <Label VerticalOptions="Start" >
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Entre em nosso site para " TextColor="White" FontFamily="InterLight" FontSize="21" />
+                    <Span Text="jogar" TextColor="White" FontFamily="InterExtraBold" FontSize="21" />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Label Text="Com o seus amigos!" TextColor="#A8B5D5" VerticalOptions="Start"  FontFamily="InterExtraBold" FontSize="21"/> 
+
+        <Label x:Name="lblEmail" Text="Email:" TextColor="White" FontSize="Subtitle"/>
+        <Entry x:Name="txtEmail" Placeholder="exemplo@gmail.com" Keyboard="Email"/>
+
+        <Label x:Name="lblSenha" Text="Senha:" TextColor="White" FontSize="Subtitle"/>
+        <Entry x:Name="txtSenha" Placeholder="sua senha" IsPassword="True"/>
+  
+        <Button x:Name="btnEnter" Text="entrar" TextColor="Black" FontFamily="InterExtraBold" WidthRequest="320" BackgroundColor="#A8B5D5" Clicked="btnEnter_Clicked"/>
+
+
+        <Label Text="não tem conta?" HorizontalOptions="Center" TextColor="White" FontFamily="InterLight" FontSize="18" Margin="18,0,0,0"/>
+        <Label HorizontalOptions="Center">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="cadastre-se" TextDecorations="Underline" TextColor="#7064F8" FontFamily="InterExtraBold" FontSize="16">
+                        <Span.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="LabelClicada"/>
+                        </Span.GestureRecognizers>
+                    </Span>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        <Image HeightRequest="50" WidthRequest="50" Source="logio"  Margin="19"/>
+    </VerticalStackLayout>
+</ContentPage>

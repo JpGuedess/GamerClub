@@ -1,0 +1,51 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GamersClub"
+             xmlns:pages="clr-namespace:GamersClub.Pages"
+             x:Class="GamersClub.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="tituloCor">#FFFFFF</Color>
+            <Color x:Key="backgroundCor">#000000</Color>
+            <Style TargetType="ShellContent" x:Key="TituloStyle">
+                <Setter Property="Shell.TitleColor" Value="{StaticResource tituloCor}"/>
+                <Setter Property="Shell.BackgroundColor" Value="{StaticResource backgroundCor}"/>
+            </Style>
+
+            <Style TargetType="TabBar" x:Key="CustomTabBarStyle">
+                <Setter Property="Shell.TabBarBackgroundColor" Value="{StaticResource TituloStyle}" />
+            </Style>
+
+            <Color x:Key="tabBarBackgroundColor">#1B1B1B</Color>
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
+                <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+
+    <Application.MainPage>
+        <Shell>
+            <TabBar x:Name="MenuTabs" Style="{StaticResource CustomTabBarStyle}">
+                <Tab Icon="home.svg">
+                    <ShellContent ContentTemplate="{DataTemplate pages:HomePage}" Style="{StaticResource TituloStyle}"/>
+                </Tab>
+
+                <Tab Icon="sobre.svg">
+                    <ShellContent ContentTemplate="{DataTemplate pages:Sobre}" Style="{StaticResource TituloStyle}"/>
+                </Tab>
+
+                <Tab Icon="favorito.svg">
+                    <ShellContent ContentTemplate="{DataTemplate pages:Favorito}" Style="{StaticResource TituloStyle}"/>
+                </Tab>
+
+                <Tab Icon="perfil.svg">
+                    <ShellContent ContentTemplate="{DataTemplate pages:Perfil}" Style="{StaticResource TituloStyle}"/>
+                </Tab>
+            </TabBar>
+        </Shell>
+    </Application.MainPage>
+</Application>
+

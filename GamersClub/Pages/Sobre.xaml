@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GamersClub.Pages.Sobre"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout>
+        <Image HeightRequest="70" WidthRequest="70" Source="logio" Margin="10"/>
+        
+        <Label Text="GAMER CLUB" TextColor="#A8B5D5" FontFamily="InterExtraBold" FontSize="41" Margin="20,40,0,0" />
+        <Label Text="Nosso site é para  ajudar os diversos jogadores do mundo a conseguirem jogar juntos." TextColor="#FFFFFF" FontFamily="InterExtraBold" FontSize="31" Margin="20,0,8,0" />
+
+        <Grid RowDefinitions="*"  HorizontalOptions="Center" VerticalOptions="Center" ColumnSpacing="22" Margin="0,380,0,0">
+     <Grid.ColumnDefinitions>
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+     </Grid.ColumnDefinitions>
+
+     <Image Grid.Column="0" WidthRequest="30" HeightRequest="40" Source="home" Margin="0,10,0,10" >
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button1_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+
+     <Image Grid.Column="1" WidthRequest="30" HeightRequest="40"  Source="sobre" Margin="0,10,0,10">
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button2_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+
+     <Image Grid.Column="2" WidthRequest="30"  HeightRequest="40" Source="favorito" Margin="0,10,0,10">
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button3_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+
+     <Image Grid.Column="3" WidthRequest="30" HeightRequest="40"  Source="perfil" Margin="0,10,0,10">
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button4_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+ </Grid>
+    </VerticalStackLayout>
+</ContentPage>

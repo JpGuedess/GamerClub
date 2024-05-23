@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GamersClub.Pages.CadUserPage"
+             >
+
+    <ContentPage.Background>
+        <RadialGradientBrush>
+            <GradientStop Color="#121B31" Offset="0.1" />
+            <GradientStop Color="#202020" Offset="1.0" />
+        </RadialGradientBrush>
+    </ContentPage.Background>
+    
+    <VerticalStackLayout Margin="15" Padding="15" Spacing="5" VerticalOptions="Center">
+        <Label VerticalOptions="Start" >
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Quer " TextColor="White" FontFamily="InterLight" FontSize="21" />
+                    <Span Text="jogar " TextColor="White" FontFamily="InterExtraBold" FontSize="21" />
+                    <Span Text="com o seus amigo e ver o progresso deles e seu?" TextColor="White" FontFamily="InterLight" FontSize="21" />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Label Text="se cadastre no GAMER CLUB e começe agora" TextColor="#A8B5D5" VerticalOptions="Start"  FontFamily="InterExtraBold" FontSize="21" />
+        
+
+        <Label x:Name="lblName" Text="Nome:" TextColor="White" FontSize="Subtitle"/>
+        <Entry x:Name="txtName" Text="{Binding Name}" Placeholder="Seu Nome" Keyboard="Text"/>
+
+        <Label x:Name="lblEmail" Text="Email:" TextColor="White" FontSize="Subtitle"/>
+        <Entry x:Name="txtEmail" Text="{Binding Email}" Placeholder="exemplo@gmail.com" Keyboard="Email"/>
+
+        <Label x:Name="lblSenha" Text="Senha:" TextColor="White" FontSize="Subtitle"/>
+        <Entry x:Name="txtSenha" Text="{Binding Password}" Placeholder="sua senha" IsPassword="True"/>
+
+        <Button x:Name="btnCad" Text="entrar" TextColor="Black" WidthRequest="320" BackgroundColor="#A8B5D5" FontFamily="InterExtraBold" Clicked="btnCad_Clicked"/>
+
+    </VerticalStackLayout>
+</ContentPage>

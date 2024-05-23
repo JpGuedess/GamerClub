@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GamersClub.Pages.HollowPage"
+             >
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="1,0">
+            <GradientStop Color="#202020" Offset="0.3" />
+            <GradientStop Color="#1A1F3A" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+    <VerticalStackLayout>
+        <ImageButton Source="hollow" WidthRequest="200" HeightRequest="300" CornerRadius="9"/>
+        <Label Text="hollow knight" VerticalOptions="Center" TextColor="#FFF" FontFamily="InterExtraBold" FontSize="21" WidthRequest="360" HeightRequest="30" Margin="0,0,0,10" />
+        <Label Text="Hollow Knight é um jogo de ação e aventura em estilo metroidvania 2D que se passa em Hallownest e Deepnest, antigos reinos fictícios. O jogador controla um silencioso receptáculo enquanto explora um mundo subterrâneo. O cavaleiro utiliza uma arma pontiaguda, tanto em combate quanto para interação com o ambiente." TextColor="#FFF" FontFamily="InterLight" FontSize="19"  Margin="16,0,10,10"/>
+        <Button Text="jogar"
+            Clicked="btnOpenSteanAnother_Clicked" TextColor="#202020" FontFamily="InterExtraBold" BackgroundColor="#23C1E7" Margin="10,0,10,0" />
+    </VerticalStackLayout>
+</ContentPage>

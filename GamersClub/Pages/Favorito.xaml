@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GamersClub.Pages.Favorito"
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout>
+        <Image HeightRequest="70" WidthRequest="70" Source="logio" Margin="10"/>
+        
+        <Label Text="os jogos que você anda jogando::" TextColor="#FFFFFF" VerticalOptions="Center"  HorizontalOptions="Center" FontFamily="InterExtraBold" FontSize="21" />
+
+
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Primeira célula -->
+            <Frame BackgroundColor="Transparent" BorderColor="Transparent" Grid.Row="0" Grid.Column="0" WidthRequest="200">
+                <StackLayout Padding="10">
+                    <ImageButton Source="another" WidthRequest="200" HeightRequest="200" VerticalOptions="Start" Clicked="gmAnother"/>
+                    <Label Text="another crab’s treasure" TextColor="#FFFFFF" FontFamily="InterExtraBold" Margin="0,10,0,0"/>
+                    <Label Text="souls like" FontFamily="InterLight"/>
+                </StackLayout>
+            </Frame>
+
+            <!-- Segunda célula -->
+            <Frame BackgroundColor="Transparent" BorderColor="Transparent" Grid.Row="0" Grid.Column="1" WidthRequest="200">
+                <StackLayout Padding="10">
+                    <ImageButton Source="hollow" WidthRequest="200" HeightRequest="200" VerticalOptions="Start" Clicked="gmHollow"/>
+                    <Label Text="hollow knight" TextColor="#FFFFFF" FontFamily="InterExtraBold" Margin="0,10,0,0"/>
+                    <Label Text="metroidvania" FontFamily="InterLight"/>
+                </StackLayout>
+            </Frame>
+
+        </Grid>
+
+        <Grid RowDefinitions="*"  HorizontalOptions="Center" VerticalOptions="Center" ColumnSpacing="22" Margin="0,320,0,0">
+     <Grid.ColumnDefinitions>
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+         <ColumnDefinition Width="*" />
+     </Grid.ColumnDefinitions>
+
+     <Image Grid.Column="0" WidthRequest="30" HeightRequest="40" Source="home" Margin="0,10,0,10" >
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button1_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+
+     <Image Grid.Column="1" WidthRequest="30" HeightRequest="40"  Source="sobre" Margin="0,10,0,10">
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button2_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+
+     <Image Grid.Column="2" WidthRequest="30"  HeightRequest="40" Source="favorito" Margin="0,10,0,10">
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button3_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+
+     <Image Grid.Column="3" WidthRequest="30" HeightRequest="40"  Source="perfil" Margin="0,10,0,10">
+         <Image.GestureRecognizers>
+             <TapGestureRecognizer Tapped="Button4_Clicked" />
+         </Image.GestureRecognizers>
+     </Image>
+ </Grid>
+    </VerticalStackLayout>
+</ContentPage>
