@@ -56,7 +56,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiImage Remove="Resources\Images\logio.svg" />
 	  <MauiImage Remove="Resources\Images\logo.svg" />
 	</ItemGroup>
 

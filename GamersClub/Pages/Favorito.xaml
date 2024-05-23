@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="GamersClub.Pages.Favorito"
-             NavigationPage.HasNavigationBar="False">
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#202020">
     <VerticalStackLayout>
         <Image HeightRequest="70" WidthRequest="70" Source="logio" Margin="10"/>
         
